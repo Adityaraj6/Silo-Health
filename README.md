@@ -1,6 +1,6 @@
 > # Silo-Health
 
-![Tux, Logo](Silo-Health/img/Silo Health Logo.png)
+ ![Tux, Logo](/img/Silo Health Logo.png)
 
 ## Silo Health Project
 
