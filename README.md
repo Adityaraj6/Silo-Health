@@ -1,7 +1,7 @@
 > # Silo-Health
 
  ![Tux, Logo](/img/Silo Health Logo.png)
- <a href="#"><img width="100%" height="auto" src="img/Silo Health Logo.png" height="175px"/></a>
+ <a href="#"><img width="100%" height="auto" src="img/Silo Health Logo.png" height="25px"/></a>
 
 ## Silo Health Project
 
